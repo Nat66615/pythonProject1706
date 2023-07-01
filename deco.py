@@ -5,12 +5,12 @@ def conc(a, b: int) -> str:
         raise TypeError('нужны числа')
     return a + b
 
-try:
-    result1 = conc('myStr', 1)
-    print('Результат: ', result1)
-except
-
-conc('myStr', 1)
+# try:
+#     result1 = conc('myStr', 1)
+#     print('Результат: ', result1)
+# except
+#
+# conc('myStr', 1)
 
 
 
